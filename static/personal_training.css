@@ -1,0 +1,34 @@
+body {    
+    background: rgb(117, 113, 113) no-repeat center center/cover ;
+}
+
+
+/* **********************written content of the page ********************** */
+.container1 {
+    display : flex ; 
+    padding : 4rem 3rem ; 
+    margin : auto 3rem ; 
+}
+.content {
+    color : white ; 
+    margin : 0 3rem ; 
+}
+
+/* ****************personal trainer form *******************  */
+.prsnl_trainer_form {
+    display : flex ; 
+    flex-direction : column ; 
+    justify-content : center ; 
+    align-items: center ;
+    background-color: rgb(141, 138, 135) ;
+    border-radius : 14px ; 
+    margin : 0px 22rem ;
+    margin-bottom : 3rem ; 
+    padding : 2rem ; 
+}
+.form-group label {
+ color : white ; 
+}
+.messege {
+ color : white ; 
+}

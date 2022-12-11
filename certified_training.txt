@@ -1,0 +1,8 @@
+name = mayank  
+    age = 19 
+    address = matiala  
+    contact = 025424245242 
+    near_place = matiala 
+    email = ram23@rediffmail.com 
+    password = 1212035 
+    check = on

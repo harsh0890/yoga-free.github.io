@@ -1,0 +1,7 @@
+name = mayank  
+    age = 54 
+    address = matiala  
+    contact = 025424245242 
+    near_place = kirti nagar 
+    email = shikhaslnk@gmail.com 
+    password = 4545454

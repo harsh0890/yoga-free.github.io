@@ -1,0 +1,7 @@
+name = shikha 
+    age = 54 
+    address = rajasthan 
+    contact = 25335026 
+    email = undefined 
+    password = 000000 
+    check = on

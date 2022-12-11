@@ -1,0 +1,19 @@
+{
+  "name": "yogaindia",
+  "version": "1.0.0",
+  "description": "get the yoga classes in your city now ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devstart":"nodemon index.js"
+  },
+  "author": "floor gang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "global": "^4.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

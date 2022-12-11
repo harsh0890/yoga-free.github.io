@@ -1,0 +1,21 @@
+.contact{
+   display : flex ; 
+   justify-content : center ; 
+   align-items : center  ; 
+   flex-direction : column ; 
+   margin : 2rem  22rem  ; 
+   padding : 2rem ; 
+   background-color: rgb(141, 138, 135) ;
+   border-radius : 14px ;     
+}
+.contact_content {
+    color : white ; 
+    font-size : 2rem ; 
+}
+.contact label {
+    color: white ; 
+}
+.messege{
+    color : white ; 
+}
+
